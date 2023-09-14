@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.user {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+.description {
+  background-color: none;
+}
